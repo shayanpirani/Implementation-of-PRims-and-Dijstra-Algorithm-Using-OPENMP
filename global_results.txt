@@ -1,0 +1,1 @@
+The MST of the 1000 vertices is : 1001

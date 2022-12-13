@@ -1,0 +1,11 @@
+0149 is given to thread 2 out of total 4 threads.
+49 is given to thread 2 out of total 4 threads.
+57 is given to thread 1 out of total 4 threads.
+57 is given to thread 1 out of total 4 threads.
+105 is given to thread 2 out of total 4 threads.
+0 is given to thread 1 out of total 4 threads.
+0 is given to thread 2 out of total 4 threads.
+57 is given to thread 0 out of total 4 threads.
+105 is given to thread 1 out of total 4 threads.
+149 is given to thread 0 out of total 4 threads.
+149 is given to thread 0 out of total 4 threads
